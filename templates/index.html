@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Brain Tumor Detection</title>
+</head>
+<body>
+    <h1>Brain Tumor Detection</h1>
+    <form action="/predict" method="post" enctype="multipart/form-data">
+        <input type="file" name="image">
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if prediction %}
+        <h2>Prediction:</h2>
+        {% if prediction == "Detect brain tumor" %}
+            <p>Brain tumor detected.</p>
+        {% else %}
+            <p>No brain tumor detected.</p>
+        {% endif %}
+    {% endif %}
+
+    {% if image %}
+        <h2>Uploaded Image:</h2>
+        <img src="{{ image }}" alt="Uploaded Image">
+    {% endif %}
+</body>
+</html>
