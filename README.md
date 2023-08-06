@@ -4,6 +4,7 @@
 
 ## Deep Learning Model (Convolutional Neural Networks (CNNs))
 
+
 #### The brain tumor detection model used in this application was trained separately and resides in another repository. You can find the model repository [here](https://github.com/Dhruvil5995/Brain_Tumor_Detection).
 
 
