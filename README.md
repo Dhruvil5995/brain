@@ -2,7 +2,7 @@
 
 ####  This repository contains a Flask-based web application for detecting brain tumors using a deep learning model. Users can upload an MRI brain scan image, and the application will predict whether a brain tumor is present or not.
 
-## Deep Learning Model
+## Deep Learning Model (Convolutional Neural Networks (CNNs))
 
 #### The brain tumor detection model used in this application was trained separately and resides in another repository. You can find the model repository [here](https://github.com/Dhruvil5995/Brain_Tumor_Detection).
 
