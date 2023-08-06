@@ -4,7 +4,9 @@
 
 ## Deep Learning Model
 
-The brain tumor detection model used in this application was trained separately and resides in another repository. You can find the model repository [here](https://github.com/your-username/brain-tumor-detection-model).
+#### The brain tumor detection model used in this application was trained separately and resides in another repository. You can find the model repository [here](https://github.com/Dhruvil5995/Brain_Tumor_Detection).
+
+
 
 ## Usage
 
