@@ -13,9 +13,7 @@
 
 #### Run the app.py file
 
-#### After running 'app.py', click the link (http://127.0.0.1:5000/) to access the brain tumor detection web application.
-
-#### click on this link: http://127.0.0.1:5000/
+#### After running 'app.py', click the link (running on http://127.0.0.1:5000/) to access the brain tumor detection web application.
 
 #### Upload an MRI brain scan image in JPG, JPEG, or PNG format.
 
