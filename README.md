@@ -13,9 +13,7 @@
 
 ## How to Use
 
-#### Run the app.py file
-
-#### Upon executing the app.py file, please click on the link provided, which will display the following message: "Running on http://127.0.0.1:5000/"
+#### click on this link: http://127.0.0.1:5000/"
 
 #### Upload an MRI brain scan image in JPG, JPEG, or PNG format.
 
