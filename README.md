@@ -9,9 +9,11 @@
 
 
 
-## Usage
-
 ## How to Use
+
+#### Run the app.py file
+
+#### After running 'app.py', click the link (http://127.0.0.1:5000/) to access the brain tumor detection web application.
 
 #### click on this link: http://127.0.0.1:5000/
 
