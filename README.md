@@ -13,7 +13,7 @@
 
 ## How to Use
 
-#### click on this link: http://127.0.0.1:5000/"
+#### click on this link: http://127.0.0.1:5000/
 
 #### Upload an MRI brain scan image in JPG, JPEG, or PNG format.
 
