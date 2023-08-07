@@ -11,16 +11,16 @@
 
 ## How to Use
 
-#### Run the app.py file
+#### [1] Run the app.py file
 
-#### After running 'app.py', click the link (running onhttp://127.0.0.1:5000/) to access the brain tumor detection web application.
+#### [2] After running 'app.py', click the link (running onhttp://127.0.0.1:5000/) to access the brain tumor detection web application.
 ![2023-08-06 (3)](https://github.com/Dhruvil5995/brain/assets/64741151/7e9c2592-06c2-4726-a501-183c1293cef1)
 
-#### Upload an MRI brain scan image in JPG, JPEG, or PNG format.
+#### [3] Upload an MRI brain scan image in JPG, JPEG, or PNG format.
 
-#### Click on the "Predict" button.
+#### [4] Click on the "Predict" button.
 
-#### The application will process the image and display the prediction result: "Detect brain tumor" or "No brain tumor detected."
+#### [5] The application will process the image and display the prediction result: "Detect brain tumor" or "No brain tumor detected."
 
 ![2023-08-06 (1)](https://github.com/Dhruvil5995/brain/assets/64741151/9341cba5-451f-4c98-a7b7-b37ce01f0d51)
 
