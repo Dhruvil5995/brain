@@ -7,6 +7,10 @@
 
 #### The brain tumor detection model used in this application was trained separately and resides in another repository. You can find the model repository [here](https://github.com/Dhruvil5995/Brain_Tumor_Detection).
 
+This is a project for detecting brain tumors using Deep Learning and machine-learning techniques. The project includes a dataset of brain MRI images labeled with tumor or non-tumor classes. It trains a convolutional neural network (CNN) model to classify the images and make predictions. The model is implemented using Python and TensorFlow/Keras.
+
+Brain tumor detection is a critical task in medical imaging, and deep learning techniques have shown promising results in automating this process. This project aims to demonstrate the use of a CNN architecture for classifying brain MRI images as either containing tumors or being tumor-free.
+
 
 
 ## How to Use
